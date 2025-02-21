@@ -36,7 +36,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Machine Learning:
-<img align="right" width="150" alt="AI/ML Concept" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Artificial-intelligence-ai-machine-learning-neural-network-automation-analytics-robotics-getty.jpg" style="margin-left: 15px;">
+<img align="right" width="150" alt="AI/ML Concept" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png" style="margin-left: 15px;">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
