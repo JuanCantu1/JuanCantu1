@@ -53,14 +53,20 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
-- **Graduate Research Assistant** at UTRGV *(Jan 2025 – Present)*  
-  Investigating Incremental Ensemble Gaussian Processes (IE‑GP) in the context of Federated Learning.
+- **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
+  Leading research on Federated Ensemble Learning for decentralized and online learning, exploring both regression and classification tasks.
+  Investigating and implementing Incremental Ensemble Gaussian Processes (IE-GP) in a Federated Learning (FL) framework.
+  Collaborating with researchers to develop and evaluate Federated IE-GP for Gaussian Process Regression (GPR) and other machine learning models.
   
 - **Undergraduate Researcher – Senior Design** at UTRGV *(Jan 2024 – Dec 2024)*  
-  Developed a real‑time facial recognition system to monitor student attentiveness.
+  Designed and deployed a real-time facial recognition system to monitor student attentiveness during class sessions.
+  Engineered a program that loads a CNN to analyze live video feeds, generating automated PDF reports for instructors.
+  Demonstrated exceptional performance with a validation accuracy exceeding 90% in classifying student attentiveness.
   
 - **Undergraduate Researcher** at CREST (MECIS) *(Jun 2023 – Aug 2023)*  
-  Created machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
+  Developed machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
+  Conducted experiments to validate algorithms, ensuring real-world applicability in dynamic driving environments.
+  Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
 
 ### Projects:
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement):**  
