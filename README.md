@@ -35,11 +35,6 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)&nbsp;
 
-<!-- Neural Network Image (Between Programming and ML) -->
-<img align="right" width="170" alt="AI/ML Concept" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png" 
-     style="margin-right: -30px; margin-top: 5px;">
-
 ### Machine Learning:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
@@ -49,10 +44,10 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<!-- FPGA Image (Between ML and Hardware Design) -->
-<img align="right" width="180" alt="FPGA Board" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" 
-     style="margin-right: -20px; margin-top: 5px;">
+<!-- Neural Network Image (Between Programming and ML) -->
+<img align="right" width="170" alt="AI/ML Concept" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png" 
+     style="margin-right: -30px; margin-top: 5px;">
 
 ### Hardware Design:
 ![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)&nbsp;
@@ -61,15 +56,15 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+<!-- FPGA Image (Between ML and Hardware Design) -->
+<img align="right" width="180" alt="FPGA Board" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" 
+     style="margin-right: -20px; margin-top: 5px;">
+     
 ### EDA Tools:
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white) 
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white) 
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF5733?style=for-the-badge&logoColor=white)
-
-<!-- FPGA Image (Between ML and Hardware Design) -->
-<img align="right" width="180" alt="FPGA Board" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skovl.jpg/170px-Skovl.jpg" 
-     style="margin-right: -10px; margin-top: 5px;">
      
      
 ### Development Tools:
