@@ -9,7 +9,7 @@ I am a **Computer Engineer** and **Graduate Researcher** pursuing advanced studi
 
 - 🚀 I’m eager to collaborate on challenging research and engineering projects.
 - ✔ Feel free to ask me anything—I'm always ready to help!
-- 🎯 My interests include machine learning, FPGA design, and digital signal processing.
+- 🎯 My interests include machine learning, FPGA design, and Embedded Systems.
 - 📫 Reach out to me at: <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a>
 
 <br>
@@ -23,7 +23,7 @@ I am a **Computer Engineer** and **Graduate Researcher** pursuing advanced studi
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:Juan.Cantu01@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="mailto:Juan.Cantu01@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/juancantu1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://github.com/JuanCantu1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
 </div>
