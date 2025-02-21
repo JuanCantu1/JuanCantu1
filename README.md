@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/109363196?s=400&u=905dc681c03f507334f5c356fc06d1230d735b0d&v=4" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/JuanCantu1">Juan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
