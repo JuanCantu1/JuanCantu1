@@ -29,7 +29,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Image Container with Position Offset -->
-<div style="position: relative; right: -20px; top: -15px;">
+<div style="position: relative; right: -50px; top: -15px;">
 
   ### Programming Languages:
   <img align="right" width="150" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/290px-C_Hello_World_Program.png" style="margin-left: 15px;">
