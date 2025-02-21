@@ -49,7 +49,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <br>
 
 <!-- Experience & Projects Section with a Different Unique Gif -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2prenB4ZWc1NzVrMm03N2UzaHVtcXY0djZ4aTVraWlrc3RpaXdmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.gif" width="30">&nbsp; ***Experience & Projects***
+<img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e47appi3m56zy5qtlo0i847j5jt6j4lixez99efakc5&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
