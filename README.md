@@ -49,8 +49,27 @@ I am a **Computer Engineer** and **Graduate Researcher** pursuing advanced studi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
+- **Graduate Research Assistant** at UTRGV *(Jan 2025 – Present)*  
+  Investigating Incremental Ensemble Gaussian Processes (IE‑GP) in the context of Federated Learning.
+  
+- **Undergraduate Researcher – Senior Design** at UTRGV *(Jan 2024 – Dec 2024)*  
+  Developed a real‑time facial recognition system to monitor student attentiveness.
+  
+- **Undergraduate Researcher** at CREST (MECIS) *(Jun 2023 – Aug 2023)*  
+  Created machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
 
 ### Projects:
-
-
----
+- **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement):**  
+  FPGA-based DSP for Trumpet Audio Enhancement, implementing real‑time audio processing algorithms in Verilog.
+  
+- **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
+  Developed a client-server architecture for remote LED control on an FPGA board.
+  
+- **[CPU-Design](https://github.com/JuanCantu1/CPU-Design):**  
+  Designed a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
+  
+- **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
+  Implemented a state machine–driven interactive memory game on an FPGA board.
+  
+- **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
+  A collection of various projects exploring VLSI design concepts and methodologies.
