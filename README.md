@@ -1,13 +1,14 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<h1 align="center">
-  <b>Hello, I'm</b> 
-  <a href="https://github.com/JuanCantu1">Juan Cantu</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<p align="center">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <b>Hello, I'm </b><a href="https://github.com/JuanCantu1"><b>Juan Cantu</b></a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
@@ -15,6 +16,7 @@
 <img align="right" width="200px" alt="Profile Photo" src="https://media.licdn.com/dms/image/v2/D5603AQH-8Wa2nzHa5Q/profile-displayphoto-shrink_800_800/B56ZPyK2H4G4Ac-/0/1734934750466?e=1745452800&v=beta&t=F5vDRrJHCas10nLcb7tgmI5B-NJxrccqdfvQbLHlrus"/>
 
 I am a **Computer Engineer** and **Research Assistant** pursuing advanced studies in **Electrical Engineering** at the University of Texas Rio Grande Valley. My interests lie in **FPGA Design**, **Embedded Systems**, and **Machine Learning**, with a focus on bridging hardware and intelligent systems. I thrive on tackling complex technical challenges—whether designing digital systems, optimizing ML models for real-world applications, or developing efficient embedded solutions. With a detail-oriented mindset and a passion for innovation, I aim to drive advancements in **semiconductors**, **hardware acceleration**, and **AI-driven embedded computing**. I’m always looking for opportunities to apply my skills to **high-impact**, **real-world projects**.
+
 
 - 🚀 I’m eager to collaborate on challenging research and engineering projects.
 - ✔ Feel free to ask me anything—I'm always ready to help!
