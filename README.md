@@ -65,7 +65,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <br>
 
 <!-- Experience & Projects Section with a Different Unique Gif -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk1bnRsZTUzbTBhMnA3MWI2YnF0aG9ibHl1bGd4M21kc3k0cGVvdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="30">&nbsp; ***Experience & Projects***
+<img src="https://media.giphy.com/media/jf5gwoMZViu3QOlDmQ/giphy.gif?cid=ecf05e47svgpo92qwyheucoiojwzhbj2bufu4dg253a5n817&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
