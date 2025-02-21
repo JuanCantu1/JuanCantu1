@@ -24,9 +24,14 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 <br>
 
-<!-- Skills Section with a Unique Gif -->
+<!-- Skills Section Header -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Right-aligned Images -->
+<img align="right" width="250" alt="FPGA Board" src="https://upload.wikimedia.org/wikipedia/commons/9/96/FPGA_Xilinx_Spartan6.jpg">
+<img align="right" width="250" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Eclipse-screen-capture.png">
+<img align="right" width="250" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Circuit_diagram_of_a_transistor.png">
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
