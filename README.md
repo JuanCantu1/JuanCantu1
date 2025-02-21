@@ -2,7 +2,7 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
-<p align="center" style="font-size: 2.5em; font-weight: bold;">
+<p align="center" style="font-size: 64; font-weight: bold;">
   Hello, I'm <a href="https://github.com/JuanCantu1" style="text-decoration: none; color: inherit;"><b>Juan Cantu</b></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </p>
