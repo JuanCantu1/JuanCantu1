@@ -28,10 +28,10 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Right-aligned Images -->
+<!-- Images -->
 <img align="right" width="250" alt="FPGA Board" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg">
-<img align="right" width="250" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Eclipse-screen-capture.png">
-<img align="right" width="250" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Circuit_diagram_of_a_transistor.png">
+<img align="right" width="250" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/290px-C_Hello_World_Program.png">
+<img align="right" width="250" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/76477_Musical_Organ.JPG/220px-76477_Musical_Organ.JPG">
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
