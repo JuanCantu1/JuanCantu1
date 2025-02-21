@@ -1,6 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hello, I'm </b><a href="https://github.com/JuanCantu1">Juan Manuel Cantu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+<h1 style="margin-bottom: 0;"><b>Hello, I'm </b><a href="https://github.com/JuanCantu1">Juan Manuel Cantu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
