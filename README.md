@@ -12,18 +12,10 @@ I am a **Computer Engineer** and **Graduate Researcher** pursuing advanced studi
 - 🎯 My interests include machine learning, FPGA design, and Embedded Systems.
 - 📫 Reach out to me at: <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a>
 
-<br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=JuanCantu1&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
+<br>    
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:Juan.Cantu01@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" /></a>
+  <a href="mailto:Juan.Cantu01@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/juancantu1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://github.com/JuanCantu1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
 </div>
