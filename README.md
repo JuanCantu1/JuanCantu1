@@ -1,7 +1,7 @@
 <h1><b>Hello, I'm </b><a href="https://github.com/JuanCantu1">Juan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://media.licdn.com/dms/image/v2/D5603AQH-8Wa2nzHa5Q/profile-displayphoto-shrink_800_800/B56ZPyK2H4G4Ac-/0/1734934750466?e=1745452800&v=beta&t=F5vDRrJHCas10nLcb7tgmI5B-NJxrccqdfvQbLHlrus" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
