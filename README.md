@@ -9,8 +9,6 @@
 
 I am a **Computer Engineer** and **Research Assistant** pursuing advanced studies in **Electrical Engineering** at the University of Texas Rio Grande Valley. My interests lie in **FPGA Design**, **Embedded Systems**, and **Machine Learning**, with a focus on bridging hardware and intelligent systems. I thrive on tackling complex technical challenges—whether designing digital systems, optimizing ML models for real-world applications, or developing efficient embedded solutions. With a detail-oriented mindset and a passion for innovation, I aim to drive advancements in **semiconductors**, **hardware acceleration**, and **AI-driven embedded computing**. I’m always looking for opportunities to apply my skills to **high-impact**, **real-world projects**.
 
-
-
 - 🚀 I’m eager to collaborate on challenging research and engineering projects.
 - ✔ Feel free to ask me anything—I'm always ready to help!
 - 🎯 My interests include machine learning, FPGA design, and Embedded Systems.
@@ -26,7 +24,8 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
+<!-- Skills Section with a Unique Gif -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Programming Languages:
@@ -47,7 +46,10 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Experience & Projects***
+<br>
+
+<!-- Experience & Projects Section with a Different Unique Gif -->
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
