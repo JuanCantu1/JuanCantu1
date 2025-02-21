@@ -2,10 +2,16 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </p>
 
-<p align="center">
-  <b>Hello, I'm </b><a href="https://github.com/JuanCantu1"><b>Juan Cantu</b></a> 
+<p align="center" style="font-size: 2em; font-weight: bold;">
+  Hello, I'm 
+  <a href="https://github.com/JuanCantu1" style="text-decoration: none; color: inherit;">
+    Juan Cantu
+  </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </p>
+
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
