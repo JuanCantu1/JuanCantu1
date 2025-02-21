@@ -3,7 +3,7 @@
 
 <img src = "https://media.licdn.com/dms/image/v2/D5603AQH-8Wa2nzHa5Q/profile-displayphoto-shrink_800_800/B56ZPyK2H4G4Ac-/0/1734934750466?e=1745452800&v=beta&t=F5vDRrJHCas10nLcb7tgmI5B-NJxrccqdfvQbLHlrus" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://media.licdn.com/dms/image/v2/D5603AQH-8Wa2nzHa5Q/profile-displayphoto-shrink_800_800/B56ZPyK2H4G4Ac-/0/1734934750466?e=1745452800&v=beta&t=F5vDRrJHCas10nLcb7tgmI5B-NJxrccqdfvQbLHlrus"/>
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
