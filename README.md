@@ -67,9 +67,9 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-<!-- FPGA Image (Between ML and Hardware Design) -->
+<!-- Circuit Image (Between ML and Hardware Design) -->
 <img align="right" width="180" alt="FPGA Board" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" 
+     src="https://upload.wikimedia.org/wikipedia/commons/c/ca/CLB_Block_Diagram.png" 
      style="margin-right: -20px; margin-top: 5px;">
      
 ### EDA Tools:
