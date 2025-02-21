@@ -74,7 +74,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Investigating and implementing Incremental Ensemble Gaussian Processes (IE-GP) in a Federated Learning (FL) framework.
   - Collaborating with researchers to develop and evaluate Federated IE-GP for Gaussian Process Regression (GPR) and other machine learning models.
   
-- **Undergraduate Researcher – Senior Design** at UTRGV *(Jan 2024 – Dec 2024)*  
+- **Undergraduate Researcher** at UTRGV *(Jan 2024 – Dec 2024)*  
   - Designed and deployed a real-time facial recognition system to monitor student attentiveness during class sessions.
   - Engineered a program that loads a CNN to analyze live video feeds, generating automated PDF reports for instructors.
   - Demonstrated exceptional performance with a validation accuracy exceeding 90% in classifying student attentiveness.
