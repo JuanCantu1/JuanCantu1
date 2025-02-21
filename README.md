@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanCantu1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://avatars.githubusercontent.com/u/109363196?s=400&u=905dc681c03f507334f5c356fc06d1230d735b0d&v=4" alt="Profile views" width="200" height="35">
 </p>
 
 ---
