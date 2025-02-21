@@ -66,6 +66,11 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white) 
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF5733?style=for-the-badge&logoColor=white)
 
+<!-- Tools Image (Between EDA Tools and Dev Tools) -->
+<img align="right" width="180" alt="Development Tools" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Oxygen480-categories-preferences-system.svg/150px-Oxygen480-categories-preferences-system.svg.png" 
+     style="margin-right: -10px; margin-top: 5px;">
+     
 ### Development Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
