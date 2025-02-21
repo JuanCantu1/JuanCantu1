@@ -1,86 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/AAL1X">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+
+<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+- 📚 I’m currently learning ...
+  - *Angular*
+  - *TypeScript*
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+<br>
+
+<!-- Profile Trophies -->
 <div align="center">
-  <img width="100%" src="https://cardivo.vercel.app/api?name=Juan%20Manuel%20Cantu&description=Graduate%20Researcher%20%7C%20Computer%20Engineer%20%7C%20ML%20and%20FPGA%20Enthusiast.&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=juancantu1&github=JuanCantu1" alt="Juan Manuel Cantu's Card" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>     
+
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/leonm_br"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
+  <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
 
-# Hello, I'm Juan Manuel Cantu <img src="https://github.com/JuanCantu1/JuanCantu1/blob/main/icons/wave.gif" width="48">
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Graduate+Researcher;ML+%26+FPGA+Enthusiast;Innovator" alt="Typing SVG" />
-</p>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  **Graduate Researcher | Computer Engineer | ML & FPGA Enthusiast**
-</p>
+###### Languages & Syntax:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-<div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>Feel free to reach out on the platforms below!</p>
-  <a href="https://www.linkedin.com/in/juancantu1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/JuanCantu1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:Juan.Cantu01@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/109363196?s=400&u=905dc681c03f507334f5c356fc06d1230d735b0d&v=4" alt="Profile views" width="200" height="35">
-</p>
+###### Frontend Development:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
----
+###### Backend & Frameworks:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 🚀 About Me
+###### Deployment & Cloud Services:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 
-I am a graduate researcher and Computer Engineer pursuing advanced studies in Electrical Engineering at the University of Texas Rio Grande Valley. With a strong foundation in machine learning, digital system design, and embedded systems, I have contributed to innovative research projects—from federated learning and real‑time facial recognition to autonomous vehicle algorithms. My work bridges academic research with practical, real-world applications, driving efficient and impactful technological solutions.
+<!-- #### ML/DL -->
 
----
+###### Database Management:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-## 🧰 Experience
+###### Development Tools:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-- **Graduate Research Assistant** at UTRGV  
-  *Jan 2025 – Present*  
-  Investigating Incremental Ensemble Gaussian Processes (IE‑GP) in the context of Federated Learning.
+###### Development Environments:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+<br>
+<br>
 
-- **Undergraduate Researcher – Senior Design** at UTRGV  
-  *Jan 2024 – Dec 2024*  
-  Developed a real‑time facial recognition system to monitor student attentiveness.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Undergraduate Researcher** at CREST (MECIS)  
-  *Jun 2023 – Aug 2023*  
-  Created machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
-
----
-
-## 💻 Projects
-
-- **Chess AI:** Designing a CNN‑based system to predict optimal chess moves using data from Chess.com.
-- **FPGA-based DSP for Trumpet Audio Enhancement:** Implementing real‑time audio processing algorithms in Verilog.
-- **Pipelined CPU Design:** Developing a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
-- **Network‑Controlled LED System:** Creating a client‑server architecture for remote LED control on an FPGA board.
-- **Interactive Memory Game:** Implementing a state machine–driven game on an FPGA board.
-
----
-
-## 🛠 Skills
-
-**Programming Languages:**  
-C, C++, Python, Verilog, SystemVerilog
-
-**Machine Learning & AI:**  
-Neural Networks, Computer Vision, YOLO, PyTorch, TensorFlow, Keras
-
-**EDA Tools:**  
-Intel Quartus Prime, Xilinx Vivado, Vitis IDE, Cadence Virtuoso, Cadence Spectre
-
----
-
-## 🎓 Education
-
-**University of Texas Rio Grande Valley, Edinburg, Texas**  
-- *Master of Science in Electrical Engineering* (Expected Dec 2026)  
-- *Bachelor of Science in Computer Engineering* (Dec 2024)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">El Molino</h3>
+      <div align="center">
+        <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
+          <img src="https://github.com/AAL1X/El_Molino-v1.0/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+        </a>
+        <p>
+          <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          </a>
+        </p>
+        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
