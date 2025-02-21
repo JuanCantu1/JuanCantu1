@@ -49,7 +49,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 
 ### EDA Tools:
-<img align="right" width="150" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/76477_Musical_Organ.JPG/220px-76477_Musical_Organ.JPG" style="margin-left: 15px;">
+<img align="right" width="140" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/76477_Musical_Organ.JPG/220px-76477_Musical_Organ.JPG" style="margin-left: 10px;">
 
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
