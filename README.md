@@ -11,7 +11,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 - 🚀 I’m eager to collaborate on challenging research and engineering projects.
 - ✔ Feel free to ask me anything—I'm always ready to help!
-- 🎯 My interests include machine learning, FPGA design, and Embedded Systems.
+- 🎯 My interests include Machine Learning, FPGA Design, and Embedded Systems.
 - 📫 Reach out to me at: <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a>
 
 <br>    
@@ -65,7 +65,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <br>
 
 <!-- Experience & Projects Section with a Different Unique Gif -->
-<img src="https://media.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=ecf05e47appi3m56zy5qtlo0i847j5jt6j4lixez99efakc5&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="30">&nbsp; ***Experience & Projects***
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk1bnRsZTUzbTBhMnA3MWI2YnF0aG9ibHl1bGd4M21kc3k0cGVvdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
