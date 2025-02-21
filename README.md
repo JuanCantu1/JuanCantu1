@@ -45,7 +45,7 @@ I am a **Computer Engineer** and **Graduate Researcher** pursuing advanced studi
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Experience and Proejcts***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Experience:
