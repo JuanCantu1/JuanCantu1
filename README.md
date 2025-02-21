@@ -28,31 +28,37 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Programming Languages:
-<img align="right" width="150" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/290px-C_Hello_World_Program.png" style="margin-left: 15px;">
+<!-- Image Container with Position Offset -->
+<div style="position: relative; right: -10px; top: -5px;">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ### Programming Languages:
+  <img align="right" width="150" alt="Programming Screen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/290px-C_Hello_World_Program.png" style="margin-left: 15px;">
 
-### Machine Learning:
-<img align="right" width="150" alt="AI/ML Concept" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png" style="margin-left: 15px;">
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ### Machine Learning:
+  <img align="right" width="150" alt="AI/ML Concept" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png" style="margin-left: 15px;">
 
-### Hardware Design:
-<img align="right" width="150" alt="FPGA Board" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" style="margin-left: 15px;">
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)&nbsp;
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
+  ### Hardware Design:
+  <img align="right" width="150" alt="FPGA Board" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" style="margin-left: 15px;">
 
-### EDA Tools:
-<img align="right" width="140" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/76477_Musical_Organ.JPG/220px-76477_Musical_Organ.JPG" style="margin-left: 10px;">
+  ![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)&nbsp;
+  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
-![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
+  ### EDA Tools:
+  <img align="right" width="140" alt="Circuit Design" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/76477_Musical_Organ.JPG/220px-76477_Musical_Organ.JPG" style="margin-left: 10px;">
+
+  ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)&nbsp;
+  ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
+
+</div>
+
 
 <br>
 <br>
