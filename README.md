@@ -52,7 +52,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <!-- FPGA Image (Between ML and Hardware Design) -->
 <img align="right" width="180" alt="FPGA Board" 
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Altera_StratixIVGX_FPGA.jpg/220px-Altera_StratixIVGX_FPGA.jpg" 
-     style="margin-right: -10px; margin-top: 5px;">
+     style="margin-right: -20px; margin-top: 5px;">
 
 ### Hardware Design:
 ![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)&nbsp;
@@ -66,10 +66,11 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ![Intel Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white) 
 ![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF5733?style=for-the-badge&logoColor=white)
 
-<!-- Tools Image (Between EDA Tools and Dev Tools) -->
-<img align="right" width="180" alt="Development Tools" 
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Oxygen480-categories-preferences-system.svg/150px-Oxygen480-categories-preferences-system.svg.png" 
+<!-- FPGA Image (Between ML and Hardware Design) -->
+<img align="right" width="180" alt="FPGA Board" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skovl.jpg/170px-Skovl.jpg" 
      style="margin-right: -10px; margin-top: 5px;">
+     
      
 ### Development Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
