@@ -108,18 +108,18 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
 
 ### Projects:
-- ** [FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System):**
-    - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing (grayscale conversion, Sobel edge detection, resizing) in Verilog.
+- **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System):**
+  - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing.
   
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement):**  
   - FPGA-based DSP for Trumpet Audio Enhancement, implementing real‑time audio processing algorithms in Verilog.
   
-- **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
-  - Developed a client-server architecture for remote LED control on an FPGA board.
-  
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design):**  
   - Designed a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
-  
+
+- **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
+  - Developed a client-server architecture for remote LED control on an FPGA board.
+
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
   - Implemented a state machine–driven interactive memory game on an FPGA board.
   
