@@ -122,7 +122,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
   - Developed a client-server architecture using FPGA and TCP/IP communication to remotely control LEDs over a network, emphasizing low-latency control for real-time applications and providing flexible system integration.
-  <p style="text-align: center;"><img src="https://private-user-images.githubusercontent.com/109363196/345648255-c78a42fc-fe66-4a27-9c4d-8e626ba68765.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTk4MjYsIm5iZiI6MTc0MDI1OTUyNiwicGF0aCI6Ii8xMDkzNjMxOTYvMzQ1NjQ4MjU1LWM3OGE0MmZjLWZlNjYtNGEyNy05YzRkLThlNjI2YmE2ODc2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQyMTI1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2RjZWIxYmNhOGI1Yzk4YjZjNzNhZjM5NjZlYjExZTk5YzU3NDhjYTNkMDRjYTczNTc0ZTQ5NjdlMjkyZGQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jFdf6dVJwPS51otsmN0_jMs6Fkzimvi366HDdulUyeU" width="350"></p>
+  <p style="text-align: center;"><img src="https://github.com/user-attachments/assets/2f219e9d-02c8-4389-b663-57ed681510ea" width="350"></p>
 
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
   - Implemented a memory game on the Nexys A7-100T FPGA using a 12-state Moore machine for efficient state management, demonstrating FPGA capabilities in creating interactive, state-driven games.
