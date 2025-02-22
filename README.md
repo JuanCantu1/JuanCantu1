@@ -118,7 +118,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
   - Designed a 32-bit pipelined CPU with hazard detection and forwarding mechanisms.  
-  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/CPU-Design/blob/main/CPU%20Design/Schematic.jpg?raw=true" width="250"></p>
+  <p style="text-align: center;"><img src="https://www.researchgate.net/publication/322978966/figure/fig20/AS:961707425927235@1606300326957/A-simple-RISC-processor-architecture.gif" width="250"></p>
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
   - Developed a client-server architecture for remote LED control on an FPGA board.  
