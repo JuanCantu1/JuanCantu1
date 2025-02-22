@@ -109,16 +109,16 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 ### Projects:
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement):**  
-  FPGA-based DSP for Trumpet Audio Enhancement, implementing real‑time audio processing algorithms in Verilog.
+  - FPGA-based DSP for Trumpet Audio Enhancement, implementing real‑time audio processing algorithms in Verilog.
   
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
-  Developed a client-server architecture for remote LED control on an FPGA board.
+  - Developed a client-server architecture for remote LED control on an FPGA board.
   
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design):**  
-  Designed a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
+  - Designed a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
   
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
-  Implemented a state machine–driven interactive memory game on an FPGA board.
+  - Implemented a state machine–driven interactive memory game on an FPGA board.
   
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
-  A collection of various projects exploring VLSI design concepts and methodologies.
+  - A collection of various projects exploring VLSI design concepts and methodologies.
