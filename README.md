@@ -109,25 +109,25 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 ### Projects:
 - **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System) (In Progress):**  
-  - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing.  
+  - Developing a hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing, aiming to improve real-time image classification speed and accuracy, and planning to integrate machine learning models for enhanced performance.
   <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMHmaSaM7hRCxDeyaKw1s-E_B47aq5KfbQ&s" width="350"></p>
 
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) (In Progress):**  
-  - FPGA-based DSP for Trumpet Audio Enhancement, implementing real-time audio processing algorithms in Verilog.  
+  - Creating an FPGA-based real-time audio processing system that implements pitch correction (autotune) and noise reduction for trumpet sounds, focusing on optimizing audio for live performance and musical accuracy.
   <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="350"></p>
 
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
-  - Designed a 32-bit pipelined CPU with hazard detection and forwarding mechanisms.  
+  - Designing a 32-bit pipelined CPU with hazard detection and forwarding mechanisms in Verilog, focusing on performance optimization, functional simulation, and efficient implementation for academic and professional applications.
   <p style="text-align: center;"><img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="350"></p>
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
-  - Developed a client-server architecture for remote LED control on an FPGA board.  
+  - Developed a client-server architecture using FPGA and TCP/IP communication to remotely control LEDs over a network, emphasizing low-latency control for real-time applications and providing flexible system integration.
   <p style="text-align: center;"><img src="https://private-user-images.githubusercontent.com/109363196/345648255-c78a42fc-fe66-4a27-9c4d-8e626ba68765.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTk4MjYsIm5iZiI6MTc0MDI1OTUyNiwicGF0aCI6Ii8xMDkzNjMxOTYvMzQ1NjQ4MjU1LWM3OGE0MmZjLWZlNjYtNGEyNy05YzRkLThlNjI2YmE2ODc2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQyMTI1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2RjZWIxYmNhOGI1Yzk4YjZjNzNhZjM5NjZlYjExZTk5YzU3NDhjYTNkMDRjYTczNTc0ZTQ5NjdlMjkyZGQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jFdf6dVJwPS51otsmN0_jMs6Fkzimvi366HDdulUyeU" width="350"></p>
 
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
-  - Implemented a state machine–driven interactive memory game on an FPGA board.  
+  - Implemented a memory game on the Nexys A7-100T FPGA using a 12-state Moore machine for efficient state management, demonstrating FPGA capabilities in creating interactive, state-driven games.
   <p style="text-align: center;"><img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="350"></p>
 
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
-  - A collection of various projects exploring VLSI design concepts and methodologies.  
+  - Designed an 8-bit full adder as part of a VLSI Design course. This project built upon various digital circuits designed throughout the class, applying VLSI principles to create an efficient, functional project.
   <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350"></p>
