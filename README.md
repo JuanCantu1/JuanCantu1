@@ -110,15 +110,15 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ### Projects:
 - **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System) (In Progress):**  
   - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing.  
-  <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMHmaSaM7hRCxDeyaKw1s-E_B47aq5KfbQ&s" width="250"></p>
+  <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMHmaSaM7hRCxDeyaKw1s-E_B47aq5KfbQ&s" width="500"></p>
 
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) (In Progress):**  
   - FPGA-based DSP for Trumpet Audio Enhancement, implementing real-time audio processing algorithms in Verilog.  
-  <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="250"></p>
+  <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="500"></p>
 
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
   - Designed a 32-bit pipelined CPU with hazard detection and forwarding mechanisms.  
-  <p style="text-align: center;"><img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="250"></p>
+  <p style="text-align: center;"><img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="500"></p>
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
   - Developed a client-server architecture for remote LED control on an FPGA board.  
@@ -126,8 +126,8 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
   - Implemented a state machine–driven interactive memory game on an FPGA board.  
-  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="250"></p>
+  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="500"></p>
 
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
   - A collection of various projects exploring VLSI design concepts and methodologies.  
-  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="250"></p>
+  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="500"></p>
