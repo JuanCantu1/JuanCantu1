@@ -108,20 +108,26 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
 
 ### Projects:
-- **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System) (In Progress):**
-  - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing.
-  
+- **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System) (In Progress):**  
+  - Hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing.  
+  <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMHmaSaM7hRCxDeyaKw1s-E_B47aq5KfbQ&s" width="250"></p>
+
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) (In Progress):**  
-  - FPGA-based DSP for Trumpet Audio Enhancement, implementing real‑time audio processing algorithms in Verilog.
-  
+  - FPGA-based DSP for Trumpet Audio Enhancement, implementing real-time audio processing algorithms in Verilog.  
+  <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="250"></p>
+
 - **[CPU-Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
-  - Designed a 32‑bit pipelined CPU with hazard detection and forwarding mechanisms.
+  - Designed a 32-bit pipelined CPU with hazard detection and forwarding mechanisms.  
+  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/CPU-Design/blob/main/CPU%20Design/Schematic.jpg?raw=true" width="250"></p>
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
-  - Developed a client-server architecture for remote LED control on an FPGA board.
+  - Developed a client-server architecture for remote LED control on an FPGA board.  
+  <p style="text-align: center;"><img src="https://private-user-images.githubusercontent.com/109363196/345648255-c78a42fc-fe66-4a27-9c4d-8e626ba68765.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNTk4MjYsIm5iZiI6MTc0MDI1OTUyNiwicGF0aCI6Ii8xMDkzNjMxOTYvMzQ1NjQ4MjU1LWM3OGE0MmZjLWZlNjYtNGEyNy05YzRkLThlNjI2YmE2ODc2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQyMTI1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2RjZWIxYmNhOGI1Yzk4YjZjNzNhZjM5NjZlYjExZTk5YzU3NDhjYTNkMDRjYTczNTc0ZTQ5NjdlMjkyZGQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jFdf6dVJwPS51otsmN0_jMs6Fkzimvi366HDdulUyeU" width="250"></p>
 
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
-  - Implemented a state machine–driven interactive memory game on an FPGA board.
-  
+  - Implemented a state machine–driven interactive memory game on an FPGA board.  
+  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="250"></p>
+
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
-  - A collection of various projects exploring VLSI design concepts and methodologies.
+  - A collection of various projects exploring VLSI design concepts and methodologies.  
+  <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="250"></p>
