@@ -131,3 +131,10 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
   - Designed an 8-bit full adder as part of a VLSI Design course. This project built upon various digital circuits designed throughout the class, applying VLSI principles to create an efficient, functional project.
   <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350"></p>
+
+
+---
+### Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanCantu1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
