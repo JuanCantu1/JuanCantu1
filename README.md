@@ -122,7 +122,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
   - Developed a client-server architecture using FPGA and TCP/IP communication to remotely control LEDs over a network, emphasizing low-latency control for real-time applications and providing flexible system integration.
-  <p style="text-align: center;"><img src="https://github.com/user-attachments/assets/2f219e9d-02c8-4389-b663-57ed681510ea" width="350"></p>
+  <p style="text-align: center;"><img src="https://t4.ftcdn.net/jpg/00/72/18/03/360_F_72180347_NTfdClV3UZL2xTRnMTGogY5z2vHyp722.jpg" width="350"></p>
 
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
   - Implemented a memory game on the Nexys A7-100T FPGA using a 12-state Moore machine for efficient state management, demonstrating FPGA capabilities in creating interactive, state-driven games.
