@@ -93,9 +93,8 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 ### Experience:
 - **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
-  - Leading research on Federated Ensemble Learning for decentralized and online learning, exploring both regression and classification tasks.
-  - Investigating and implementing Incremental Ensemble Gaussian Processes (IE-GP) in a Federated Learning (FL) framework.
-  - Collaborating with researchers to develop and evaluate Federated IE-GP for Gaussian Process Regression (GPR) and other machine learning models.
+  - Leading research on Federated Ensemble Learning for both decentralized and online learning.
+  - Collaborating with researchers to further explore and implement Federated IE-GP for Gaussian Process Regression.
   
 - **Undergraduate Researcher** at UTRGV *(Jan 2024 – Dec 2024)*  
   - Designed and deployed a real-time facial recognition system to monitor student attentiveness during class sessions.
