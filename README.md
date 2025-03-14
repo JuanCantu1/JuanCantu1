@@ -107,10 +107,6 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
 
 ### Projects:
-- **[FPGA-Accelerated-Real-Time-Image-Classification-System](https://github.com/JuanCantu1/FPGA-Accelerated-Real-Time-Image-Classification-System) (In Progress):**  
-  - Developing a hardware/software co-design system using the DE1-SoC FPGA to accelerate image preprocessing, aiming to improve real-time image classification speed and accuracy, and planning to integrate machine learning models for enhanced performance.
-  <p style="text-align: center;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpMHmaSaM7hRCxDeyaKw1s-E_B47aq5KfbQ&s" width="350"></p>
-
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) (In Progress):**  
   - Creating an FPGA-based real-time audio processing system that implements pitch correction (autotune) and noise reduction for trumpet sounds, focusing on optimizing audio for live performance and musical accuracy.
   <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="350"></p>
