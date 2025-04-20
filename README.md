@@ -93,13 +93,14 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 ### Experience:
 - **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
-  - Leading research on Federated Ensemble Learning for both decentralized and online learning.
-  - Collaborating with researchers to further explore and implement Federated IE-GP for Gaussian Process Regression.
+  - Leading research in Federated Learning, developing IE-GP algorithms with 1000+ model update cycles.
+  - Simulated 18.5k+ samples across 5-agent setups, achieving up to 72% lower NLL and 48% lower MSE using 50–300 random features, enabling scalable FL performance for GPR tasks.
+  - Maintained a shared multi-institutional codebase, enabling scalable, reproducible multi-agent experiments and supporting a manuscript for Asilomar 2025.
   
 - **Undergraduate Researcher** at UTRGV *(Jan 2024 – Dec 2024)*  
-  - Designed and deployed a real-time facial recognition system to monitor student attentiveness during class sessions.
-  - Engineered a program that loads a CNN to analyze live video feeds, generating automated PDF reports for instructors.
-  - Demonstrated exceptional performance with a validation accuracy exceeding 90% in classifying student attentiveness.
+  - Led a team of four in developing a real-time facial recognition system to assess student attentiveness using a custom CNN.
+  - Collected, labeled, and curated 4000+ data samples from real classroom sessions, achieving >90% validation accuracy.
+  - Automated PDF reporting to instructors and presented the system to 200+ K-12 students in campus outreach events.
   
 - **Undergraduate Researcher** at CREST (MECIS) *(Jun 2023 – Aug 2023)*  
   - Developed machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
