@@ -112,8 +112,8 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Creating an FPGA-based real-time audio processing system that implements pitch correction (autotune) and noise reduction for trumpet sounds, focusing on optimizing audio for live performance and musical accuracy.
   <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="350"></p>
 
-- **[CPU-Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
-  - Revising the project as part of EECE 6380 Computer Architecture at UTRGV, upgrading an 8-bit CPU to a 24-bit RISC processor with a five-stage pipeline (fetch, decode, execute, memory, write-back). Implementing hazard detection and forwarding mechanisms for improved performance, and enhancing simulation testbenches for robust functional validation.
+- **[RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) (In Progress):**  
+  - Designed a 24-bit RISC processor with a five-stage pipeline and cycle-accurate Python simulator; now expanding to a full RISC-V implementation targeting the DE1-SoC board.
   <p style="text-align: center;"><img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="350"></p>
 
 - **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
