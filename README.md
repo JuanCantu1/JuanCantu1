@@ -115,7 +115,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 ---
 
 ### Experience:
-  - **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
+- **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
   - Leading research in Federated Learning, developing IE-GP algorithms with 1000+ model update cycles.
   - Simulated 18.5k+ samples across 5-agent setups, achieving up to 72% lower NLL and 48% lower MSE using 50–300 random features, enabling scalable FL performance for GPR tasks.
   - Maintained a shared multi-institutional codebase, enabling scalable, reproducible multi-agent experiments and supporting a manuscript for Asilomar 2025.
