@@ -91,22 +91,6 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 <img src="https://media.giphy.com/media/jf5gwoMZViu3QOlDmQ/giphy.gif?cid=ecf05e47svgpo92qwyheucoiojwzhbj2bufu4dg253a5n817&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">&nbsp; ***Experience & Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Experience:
-- **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
-  - Leading research in Federated Learning, developing IE-GP algorithms with 1000+ model update cycles.
-  - Simulated 18.5k+ samples across 5-agent setups, achieving up to 72% lower NLL and 48% lower MSE using 50–300 random features, enabling scalable FL performance for GPR tasks.
-  - Maintained a shared multi-institutional codebase, enabling scalable, reproducible multi-agent experiments and supporting a manuscript for Asilomar 2025.
-  
-- **Undergraduate Researcher** at UTRGV *(Jan 2024 – Dec 2024)*  
-  - Led a team of four in developing a real-time facial recognition system to assess student attentiveness using a custom CNN.
-  - Collected, labeled, and curated 4000+ data samples from real classroom sessions, achieving >90% validation accuracy.
-  - Automated PDF reporting to instructors and presented the system to 200+ K-12 students in campus outreach events.
-  
-- **Undergraduate Researcher** at CREST (MECIS) *(Jun 2023 – Aug 2023)*  
-  - Developed machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
-  - Conducted experiments to validate algorithms, ensuring real-world applicability in dynamic driving environments.
-  - Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
-
 ### Projects:
 - **[DSP-System-for-Trumpet-Audio-Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) (In Progress):**  
   - Creating an FPGA-based real-time audio processing system that implements pitch correction (autotune) and noise reduction for trumpet sounds, focusing on optimizing audio for live performance and musical accuracy.
@@ -128,8 +112,26 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Designed an 8-bit full adder as part of a VLSI Design course. This project built upon various digital circuits designed throughout the class, applying VLSI principles to create an efficient, functional project.
   <p style="text-align: center;"><img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350"></p>
 
+---
+
+### Experience:
+  - **Research Assistant** at UTRGV *(Jan 2025 – Present)*  
+  - Leading research in Federated Learning, developing IE-GP algorithms with 1000+ model update cycles.
+  - Simulated 18.5k+ samples across 5-agent setups, achieving up to 72% lower NLL and 48% lower MSE using 50–300 random features, enabling scalable FL performance for GPR tasks.
+  - Maintained a shared multi-institutional codebase, enabling scalable, reproducible multi-agent experiments and supporting a manuscript for Asilomar 2025.
+  
+- **Undergraduate Researcher** at UTRGV *(Jan 2024 – Dec 2024)*  
+  - Led a team of four in developing a real-time facial recognition system to assess student attentiveness using a custom CNN.
+  - Collected, labeled, and curated 4000+ data samples from real classroom sessions, achieving >90% validation accuracy.
+  - Automated PDF reporting to instructors and presented the system to 200+ K-12 students in campus outreach events.
+  
+- **Undergraduate Researcher** at CREST (MECIS) *(Jun 2023 – Aug 2023)*  
+  - Developed machine learning algorithms for autonomous vehicle conflict detection, reducing collision rates by 50%.
+  - Conducted experiments to validate algorithms, ensuring real-world applicability in dynamic driving environments.
+  - Collaborated with a team of researchers, fostering an innovative and solution-driven research environment.
 
 ---
+
 ### Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanCantu1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
