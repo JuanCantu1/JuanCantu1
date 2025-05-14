@@ -21,7 +21,7 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
 
 
 - 🚀 I’m eager to collaborate on challenging research and engineering projects.
-- ✔ Feel free to ask me anything—I'm always ready to help!
+- ✔ Feel free to ask me anything. I'm always ready to help!
 - 🎯 My interests include Machine Learning, FPGA Design, and Embedded Systems.
 - 📫 Reach out to me at: <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a>
 
