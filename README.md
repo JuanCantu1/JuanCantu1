@@ -100,13 +100,13 @@ I am a **Computer Engineer** and **Research Assistant** pursuing advanced studie
   - Creating an FPGA-based real-time audio processing system that implements pitch correction (autotune) and noise reduction for trumpet sounds, focusing on optimizing audio for live performance and musical accuracy.
   <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="350"></p>
 
-- **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
-  - Developed a client-server architecture using FPGA and TCP/IP communication to remotely control LEDs over a network, emphasizing low-latency control for real-time applications and providing flexible system integration.
-  <p style="text-align: center;"><img src="https://t4.ftcdn.net/jpg/00/72/18/03/360_F_72180347_NTfdClV3UZL2xTRnMTGogY5z2vHyp722.jpg" width="350"></p>
-
 - **[Interactive-Memory-Game](https://github.com/JuanCantu1/Interactive-Memory-Game):**  
   - Implemented a memory game on the Nexys A7-100T FPGA using a 12-state Moore machine for efficient state management, demonstrating FPGA capabilities in creating interactive, state-driven games.
   <p style="text-align: center;"><img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="350"></p>
+  
+- **[Network-Controlled-LED-System](https://github.com/JuanCantu1/Network-Controlled-LED-System):**  
+  - Developed a client-server architecture using FPGA and TCP/IP communication to remotely control LEDs over a network, emphasizing low-latency control for real-time applications and providing flexible system integration.
+  <p style="text-align: center;"><img src="https://t4.ftcdn.net/jpg/00/72/18/03/360_F_72180347_NTfdClV3UZL2xTRnMTGogY5z2vHyp722.jpg" width="350"></p>
 
 - **[VLSI-Projects](https://github.com/JuanCantu1/VLSI-Projects):**  
   - Designed an 8-bit full adder as part of a VLSI Design course. This project built upon various digital circuits designed throughout the class, applying VLSI principles to create an efficient, functional project.
