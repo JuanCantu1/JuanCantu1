@@ -39,8 +39,9 @@ Designed a custom 24-bit RISC CPU with a five-stage pipeline and a cycle-accurat
 Building a real-time audio enhancement system for trumpet using the DE1-SoC FPGA. The design combines HPS-based pitch detection with FPGA-accelerated DSP effects like pitch correction and echo suppression, targeting <15ms latency for live performance optimization.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sampled.signal.svg/220px-Sampled.signal.svg.png" width="350">
+  <img src="https://github.com/user-attachments/assets/d937eba0-ce8a-4621-98e7-29e170700a44" width="350">
 </p>
+
 
 ---
 
