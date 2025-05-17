@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Who I Am
+## 📌 Who I Am
 
 I'm a **Computer Engineer**, **Research Assistant**, and current **Master’s student in Electrical Engineering** at UTRGV. I blend **hardware design** and **machine learning** to solve real-world challenges, thriving at the intersection of embedded systems, FPGAs, and intelligent computation.
 
@@ -26,7 +26,7 @@ I believe in **engineering for impact**: systems that are fast, intelligent, and
 
 ## 🚀 Featured Projects
 
-### 🧮 [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) *(In Progress)*
+### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) *(In Progress)*
 Designed a custom 24-bit RISC CPU with a five-stage pipeline and a cycle-accurate simulator in Python. The project includes a custom ISA, full register and memory tracing, and pipeline execution logs. Now expanding into a full Verilog RISC-V implementation targeting the DE1-SoC board.
 
 <p align="center">
@@ -44,7 +44,7 @@ Building a real-time audio enhancement system for trumpet using the DE1-SoC FPGA
 
 ---
 
-### 🧠 [Interactive Memory Game on FPGA](https://github.com/JuanCantu1/Interactive-Memory-Game)
+### 🎮 [Interactive Memory Game on FPGA](https://github.com/JuanCantu1/Interactive-Memory-Game)
 A 12-state Moore machine implemented in Verilog and deployed on the Nexys A7-100T FPGA. The system tests button press sequences and provides visual feedback using LEDs, showcasing finite state machine design, modular HDL, and hardware debugging.
 
 <p align="center">
@@ -62,7 +62,7 @@ Developed a network-based control interface for DE1-SoC LEDs using TCP/IP. Featu
 
 ---
 
-### 🧱 [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
+### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
 A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso. Each includes schematic, layout, simulation waveforms, and successful LVS checks — showcasing hands-on transistor-level design.
 
 <p align="center">
@@ -73,7 +73,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ## 🔧 Core Skills
 
-### 🖥️ Languages I Use in Projects
+### 📝 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -83,7 +83,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ---
 
-### 📦 Embedded Systems & Hardware Design
+### 🔌 Embedded Systems & Hardware Design
 ![FPGA](https://img.shields.io/badge/FPGA-8C1CAB?style=for-the-badge&logo=xilinx&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -117,7 +117,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 **🧪 Research Assistant @ UTRGV** *(2025–Present)*  
 Developing fast, scalable federated Gaussian process models (F-IGP) with 1K+ update cycles, achieving strong accuracy and runtime gains in decentralized multi-agent simulations.
 
-**🧠 Undergraduate Researcher @ UTRGV** *(2024)*  
+**🧬 Undergraduate Researcher @ UTRGV** *(2024)*  
 Built a real-time facial recognition system using a custom CNN to measure attentiveness in classrooms (90%+ accuracy).
 
 **🚗 CREST MECIS Fellow** *(2023)*  
