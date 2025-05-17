@@ -115,7 +115,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 ## 📚 Experience Highlights
 
 **🧪 Research Assistant @ UTRGV** *(2025–Present)*  
-Developing scalable federated learning algorithms (IE-GP) with 1K+ training rounds, targeting multi-agent environments.
+Developing fast, scalable federated Gaussian process models (F-IGP) with 1K+ update cycles, achieving strong accuracy and runtime gains in decentralized multi-agent simulations.
 
 **🧠 Undergraduate Researcher @ UTRGV** *(2024)*  
 Built a real-time facial recognition system using a custom CNN to measure attentiveness in classrooms (90%+ accuracy).
