@@ -20,7 +20,7 @@ I'm a **Computer Engineer**, **Research Assistant**, and current **Master’s st
 
 From simulating custom RISC pipelines to designing real-time DSP systems for audio enhancement, I focus on building efficient, impactful systems that bridge theory and application.
 
-I believe in **engineering for impact**: systems that are fast, intelligent, and meaningful.
+I believe in **engineering for impact** — building systems that are fast, intelligent, and meaningful.
 
 ---
 
