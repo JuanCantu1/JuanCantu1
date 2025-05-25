@@ -84,7 +84,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ---
 
-### 🔌 Embedded Systems & Hardware Design
+### 🔌 Hardware Design & Embedded Systems
 ![FPGA](https://img.shields.io/badge/FPGA-8C1CAB?style=for-the-badge&logo=xilinx&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
