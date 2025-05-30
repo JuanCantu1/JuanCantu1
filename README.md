@@ -36,7 +36,7 @@ Designed a custom 24-bit RISC CPU with a five-stage pipeline and a cycle-accurat
 ---
 
 ### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) *(In Progress)*
-Building a real-time audio enhancement system for trumpet using the DE1-SoC FPGA. The design combines HPS-based pitch detection with FPGA-accelerated DSP effects like pitch correction and echo suppression, targeting <15ms latency for live performance optimization.
+Building a low-latency, real-time audio enhancement system tailored for trumpet players, powered by the DE1-SoC FPGA. Combines HPS-based pitch detection with FPGA-accelerated DSP (e.g., pitch correction, noise gating, and reverb), targeting <15ms latency for live performance use.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d937eba0-ce8a-4621-98e7-29e170700a44" width="350">
