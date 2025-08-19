@@ -20,7 +20,7 @@ I'm a **Computer Engineer**, **Research Assistant**, and current **Master’s st
 
 From simulating custom RISC pipelines to designing real-time DSP systems for audio enhancement, I focus on building efficient, impactful systems that bridge theory and application.
 
-I believe in **engineering for impact** — building systems that are fast, intelligent, and meaningful.
+I believe in **engineering for impact**. Building systems that are fast, intelligent, and meaningful.
 
 ---
 
@@ -115,14 +115,17 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ## 📚 Experience Highlights
 
-**🧪 Research Assistant @ UTRGV** *(2025–Present)*  
-Developing fast, scalable federated Gaussian process models (F-IGP) with 1K+ update cycles, achieving strong accuracy and runtime gains in decentralized multi-agent simulations.
+**🧪 Teaching Assistant @ UTRGV** *(2025)*  
+Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
+
+**🧪 Research Assistant @ UTRGV** *(2025)*  
+Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1K+ update cycles. Simulated 18.5K+ samples across multi-agent networks, achieving a 72% reduction in NLL and 48% drop in MSE.
 
 **🧬 Undergraduate Researcher @ UTRGV** *(2024)*  
-Built a real-time facial recognition system using a custom CNN to measure attentiveness in classrooms (90%+ accuracy).
+Led a 4-person team to build a real-time facial recognition system for classroom attentiveness using a custom CNN. Processed 4K+ labeled samples, reaching >90% accuracy, and presented results to 200+ K-12 students.
 
-**🚗 CREST MECIS Fellow** *(2023)*  
-Developed ML models to reduce autonomous vehicle conflict zones by 50%, focusing on real-time decision-making.
+**🚗 NSF REU** *(2023)*  
+Collaborated with researchers in a 10-week program focused on autonomous vehicle safety. Supported ML-based decision-making research aimed at reducing conflict zones by 50%.
 
 ---
 
