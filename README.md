@@ -115,7 +115,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ## 📚 Experience Highlights
 
-**🧪 Teaching Assistant @ UTRGV** *(2025)*  
+**🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
 Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
 
 **🧪 Research Assistant @ UTRGV** *(2025)*  
