@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://github.com/JuanCantu1">Juan Cantu</a> 👋</h1>
 
-<p align="center"><b>Computer Engineer | Embedded Systems | FPGA Design | Machine Learning</b></p>
+<p align="center"><b>Computer Engineer | FPGA & VLSI Design | Embedded Systems</b></p>
 
 <p align="center">
   📫 <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a> &nbsp;|&nbsp;
@@ -13,14 +13,15 @@
 </p>
 
 ---
-
 ## 📌 Who I Am
 
-I'm a **Computer Engineer**, **Research Assistant**, and current **Master’s student in Electrical Engineering** at UTRGV. I blend **hardware design** and **machine learning** to solve real-world challenges, thriving at the intersection of embedded systems, FPGAs, and intelligent computation.
+I'm a **Graduate Research Assistant** and current **Master’s student in Electrical Engineering** at UTRGV, working under Dr. Nazmul Islam in the Nano-Bio Lab. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
 
-From simulating custom RISC pipelines to designing real-time DSP systems for audio enhancement, I focus on building efficient, impactful systems that bridge theory and application.
+My interests center on **FPGA and VLSI design**, embedded systems, and semiconductor technologies, with applications spanning from bio-nano sensors to real-time digital signal processing.
 
-I believe in **engineering for impact**. Building systems that are fast, intelligent, and meaningful.
+I enjoy building hardware that bridges **theory and practice**, from custom CPU architectures and transistor-level VLSI circuits to FPGA-based DSP pipelines for audio and sensor systems. My goal is to design systems that are **fast, efficient, and impactful**, contributing to the next generation of electronics and semiconductor technologies.
+
+I believe in **engineering with purpose**: using hardware design to push the boundaries of performance while enabling meaningful real-world applications.
 
 ---
 
@@ -115,11 +116,14 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ## 📚 Experience Highlights
 
+**🔬 Graduate Research Assistant @ UTRGV Nano-Bio Lab** *(Present)*  
+Conducting research under Dr. Nazmul Islam as part of the DARPA-funded Texas Institute for Electronics (TIE) initiative. Exploring micro/nanoscale sensor platforms, microfluidics, and bioelectronics, with plans to integrate FPGA/VLSI design into next-generation semiconductor and biosensor systems.  
+
 **🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
 Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
 
 **🧪 Research Assistant @ UTRGV** *(2025)*  
-Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1K+ update cycles. Simulated 18.5K+ samples across multi-agent networks, achieving a 72% reduction in NLL and 48% drop in MSE.
+Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1K+ update cycles. Simulated 18.5K+ samples across multi-agent networks, achieving a 72% reduction in NLL and 48% drop in MSE. Contributed as co-author on a paper submitted to the Asilomar Conference on Signals, Systems, and Computers.
 
 **🧬 Undergraduate Researcher @ UTRGV** *(2024)*  
 Led a 4-person team to build a real-time facial recognition system for classroom attentiveness using a custom CNN. Processed 4K+ labeled samples, reaching >90% accuracy, and presented results to 200+ K-12 students.
@@ -132,3 +136,8 @@ Collaborated with researchers in a 10-week program focused on autonomous vehicle
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanCantu1&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
+
+---
+
+📫 I’m always open to discussing research collaborations, hardware/FPGA design projects, or industry opportunities.  
+Feel free to reach out at **Juan.Cantu01@outlook.com**.
