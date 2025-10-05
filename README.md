@@ -15,7 +15,7 @@
 ---
 ## 📌 Who I Am
 
-I'm a **Graduate Research Assistant** and current **Master’s student in Electrical Engineering** at UTRGV, working under Dr. Nazmul Islam in the Nano-Bio Lab. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
+I'm a **Graduate Research Assistant** and current **Master’s student in Electrical Engineering** at UTRGV, working under Dr. Hasina Huq. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
 
 My interests center on **FPGA and VLSI design**, embedded systems, and semiconductor technologies, with applications spanning from bio-nano sensors to real-time digital signal processing.
 
@@ -116,8 +116,8 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 
 ## 📚 Experience Highlights
 
-**🔬 Graduate Research Assistant @ UTRGV Nano-Bio Lab** *(Present)*  
-Conducting research under Dr. Nazmul Islam as part of the DARPA-funded Texas Institute for Electronics (TIE) initiative. Exploring micro/nanoscale sensor platforms, microfluidics, and bioelectronics, with plans to integrate FPGA/VLSI design into next-generation semiconductor and biosensor systems.  
+**🔬 Graduate Research Assistant @ UTRGV** *(Present)*  
+Conducting research in semiconductor materials and device fabrication under Dr. Hasina Huq, focusing on GaN thin-film deposition and characterization.
 
 **🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
 Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
