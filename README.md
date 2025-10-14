@@ -17,9 +17,9 @@
 
 I'm a **Graduate Research Assistant** and current **Master’s student in Electrical Engineering** at UTRGV, working under Dr. Hasina Huq. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
 
-My interests center on **FPGA and VLSI design**, embedded systems, and semiconductor technologies, with applications spanning from bio-nano sensors to real-time digital signal processing.
+My interests center on **FPGA, ASIC/VLSI, and front-end digital design**, with a focus on RTL development, CPU architectures, and system-on-chip integration. I am passionate about semiconductor technologies and high-performance digital systems that power modern computing.
 
-I enjoy building hardware that bridges **theory and practice**, from custom CPU architectures and transistor-level VLSI circuits to FPGA-based DSP pipelines for audio and sensor systems. My goal is to design systems that are **fast, efficient, and impactful**, contributing to the next generation of electronics and semiconductor technologies.
+I enjoy building hardware that bridges **theory and practice**, from custom RISC-V CPU pipelines and transistor-level VLSI circuits to FPGA-based accelerators and real-time DSP systems. My goal is to design systems that are **fast, efficient, and scalable**, contributing to the next generation of computing hardware and semiconductor innovation.
 
 I believe in **engineering with purpose**: using hardware design to push the boundaries of performance while enabling meaningful real-world applications.
 
