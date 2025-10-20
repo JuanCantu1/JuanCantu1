@@ -31,8 +31,9 @@ I believe in **engineering with purpose**: using hardware design to push the bou
 Building a real-time FPGA DSP pipeline with autotune, reverb, and harmonic enhancement, using a Python-to-Verilog testbench (3.6M+ samples) and validating <15 ms latency on real trumpet recordings.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d937eba0-ce8a-4621-98e7-29e170700a44" width="350">
+  <img src="https://github.com/user-attachments/assets/40a31b9f-3c1b-4666-be83-6029270986c0" width="350">
 </p>
+
 
 ---
 
@@ -40,7 +41,7 @@ Building a real-time FPGA DSP pipeline with autotune, reverb, and harmonic enhan
 Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwarding, expanding from a custom ISA simulator to Verilog RTL targeting FPGA implementation.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="350">
+  <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
 </p>
 
 ---
