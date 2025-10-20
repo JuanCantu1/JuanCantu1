@@ -27,8 +27,17 @@ I believe in **engineering with purpose**: using hardware design to push the bou
 
 ## 🚀 Featured Projects
 
+### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) *(In Progress)*
+Building a real-time FPGA DSP pipeline with autotune, reverb, and harmonic enhancement, using a Python-to-Verilog testbench (3.6M+ samples) and validating <15 ms latency on real trumpet recordings.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d937eba0-ce8a-4621-98e7-29e170700a44" width="350">
+</p>
+
+---
+
 ### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) *(In Progress)*
-Designed a custom 24-bit RISC CPU with a five-stage pipeline and a cycle-accurate simulator in Python. The project includes a custom ISA, full register and memory tracing, and pipeline execution logs. Now expanding into a full Verilog RISC-V implementation targeting the DE1-SoC board.
+Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwarding, expanding from a custom ISA simulator to Verilog RTL targeting FPGA implementation.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/84727176/138549829-0a1ef365-6fe0-4a3b-8472-10c10c33a75e.png" width="350">
@@ -36,18 +45,17 @@ Designed a custom 24-bit RISC CPU with a five-stage pipeline and a cycle-accurat
 
 ---
 
-### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) *(In Progress)*
-Building a low-latency, real-time audio enhancement system tailored for trumpet players, powered by the DE1-SoC FPGA. Combines HPS-based pitch detection with FPGA-accelerated DSP (e.g., pitch correction, noise gating, and reverb), targeting <15ms latency for live performance use.
+### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
+A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso, demonstrating transistor-level digital design expertise.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d937eba0-ce8a-4621-98e7-29e170700a44" width="350">
+  <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
 </p>
-
 
 ---
 
 ### 🎮 [Interactive Memory Game on FPGA](https://github.com/JuanCantu1/Interactive-Memory-Game)
-A 12-state Moore machine implemented in Verilog and deployed on the Nexys A7-100T FPGA. The system tests button press sequences and provides visual feedback using LEDs, showcasing finite state machine design, modular HDL, and hardware debugging.
+Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED feedback on the Nexys A7-100T FPGA, fully verified with modular Verilog test sequences.
 
 <p align="center">
   <img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="350">
@@ -56,19 +64,10 @@ A 12-state Moore machine implemented in Verilog and deployed on the Nexys A7-100
 ---
 
 ### 💡 [Network Controlled LED System](https://github.com/JuanCantu1/Network-Controlled-LED-System)
-Developed a network-based control interface for DE1-SoC LEDs using TCP/IP. Features a client-server architecture, where commands from a remote device control hardware via HPS–FPGA integration. Demonstrates embedded Linux, socket programming, and real-time interfacing.
+Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integration on the DE1-SoC, achieving sub-second response time and 100% command reliability over 30+ tests.
 
 <p align="center">
   <img src="https://t4.ftcdn.net/jpg/00/72/18/03/360_F_72180347_NTfdClV3UZL2xTRnMTGogY5z2vHyp722.jpg" width="350">
-</p>
-
----
-
-### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
-A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso. Each includes schematic, layout, simulation waveforms, and successful LVS checks — showcasing hands-on transistor-level design.
-
-<p align="center">
-  <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
 </p>
 
 ---
