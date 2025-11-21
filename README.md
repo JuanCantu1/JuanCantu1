@@ -61,6 +61,7 @@ A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit 
 <p align="center">
   <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
 </p>
+
 ---
 
 ### 💡 [Network Controlled LED System](https://github.com/JuanCantu1/Network-Controlled-LED-System)
