@@ -46,15 +46,6 @@ Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwa
 
 ---
 
-### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
-A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso, demonstrating transistor-level digital design expertise.
-
-<p align="center">
-  <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
-</p>
-
----
-
 ### 🎮 [Interactive Memory Game on FPGA](https://github.com/JuanCantu1/Interactive-Memory-Game)
 Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED feedback on the Nexys A7-100T FPGA, fully verified with modular Verilog test sequences.
 
@@ -62,6 +53,14 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
   <img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="350">
 </p>
 
+---
+
+### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
+A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso, demonstrating transistor-level digital design expertise.
+
+<p align="center">
+  <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
+</p>
 ---
 
 ### 💡 [Network Controlled LED System](https://github.com/JuanCantu1/Network-Controlled-LED-System)
