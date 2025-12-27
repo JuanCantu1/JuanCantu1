@@ -139,5 +139,6 @@ Collaborated with researchers in a 10-week program focused on autonomous vehicle
 
 ---
 
-📫 I’m always open to discussing research collaborations, hardware/FPGA design projects, or industry opportunities.  
+📫 I’m always open to discussing research collaborations, hardware/FPGA design projects.  
+
 Feel free to reach out at **Juan.Cantu01@outlook.com**.
