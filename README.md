@@ -108,7 +108,7 @@ Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integratio
 ## 📚 Experience Highlights
 
 **🔬 Graduate Research Assistant @ UTRGV** *(2025)*  
-Conducting research in semiconductor materials and device fabrication under Dr. Hasina Huq, focusing on GaN thin-film deposition and characterization.
+Conducted research in semiconductor materials and device fabrication under Dr. Hasina Huq, focusing on GaN thin-film deposition and characterization.
 
 **🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
 Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
