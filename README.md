@@ -15,7 +15,7 @@
 ---
 ## 📌 Who I Am
 
-I'm a **Graduate Research Assistant** and current **Master’s student in Electrical Engineering** at UTRGV, working under Dr. Hasina Huq. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
+I'm a **Master’s student in Electrical Engineering** at UTRGV. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
 
 My interests center on **FPGA, ASIC/VLSI, and front-end digital design**, with a focus on RTL development, CPU architectures, and system-on-chip integration. I am passionate about semiconductor technologies and high-performance digital systems that power modern computing.
 
@@ -116,7 +116,7 @@ Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integratio
 
 ## 📚 Experience Highlights
 
-**🔬 Graduate Research Assistant @ UTRGV** *(Present)*  
+**🔬 Graduate Research Assistant @ UTRGV** *(2025)*  
 Conducting research in semiconductor materials and device fabrication under Dr. Hasina Huq, focusing on GaN thin-film deposition and characterization.
 
 **🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
