@@ -55,15 +55,6 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 
 ---
 
-### ⚙️ [VLSI Logic Design Portfolio](https://github.com/JuanCantu1/VLSI-Projects)
-A collection of CMOS digital circuits including XOR gates, adders, and an 8-bit ripple-carry adder, designed and simulated using Cadence Virtuoso, demonstrating transistor-level digital design expertise.
-
-<p align="center">
-  <img src="https://github.com/JuanCantu1/VLSI-Projects/blob/main/8BitFullAdder/schematic.PNG?raw=true" width="350">
-</p>
-
----
-
 ### 💡 [Network Controlled LED System](https://github.com/JuanCantu1/Network-Controlled-LED-System)
 Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integration on the DE1-SoC, achieving sub-second response time and 100% command reliability over 30+ tests.
 
