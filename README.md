@@ -60,7 +60,7 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 
 ---
 
-### 🔌 Digital Design and FPGA
+### 🔌 Hardware Digital
 ![FPGA](https://img.shields.io/badge/FPGA-8C1CAB?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Intel%20Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
 ![Xilinx%20Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)
