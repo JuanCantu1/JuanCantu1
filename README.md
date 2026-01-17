@@ -15,7 +15,7 @@
 ---
 ## 📌 Who I Am
 
-I’m a **Master’s student in Electrical Engineering (MSEE)** at UTRGV with a **B.S. in Computer Engineering**. My work and interests focus on **digital hardware design and RTL development**, especially **FPGA/ASIC design**, **computer architecture**, and **system-level integration**.
+I’m a **Master’s student in Electrical Engineering** at UTRGV with a **B.S. in Computer Engineering**. My work and interests focus on **digital hardware design and RTL development**, especially **FPGA/ASIC design**, **computer architecture**, and **system-level integration**.
 
 I enjoy building practical hardware projects that reinforce strong fundamentals, ranging from **CPU microarchitecture and pipelined datapaths** to **FSM-driven FPGA designs** and **real-time signal processing systems**. I’m especially interested in designing digital systems that are **clean, efficient, and scalable**, with an emphasis on writing structured **Verilog/SystemVerilog** and developing designs that are easy to debug and verify.
 
@@ -73,8 +73,6 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 ![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-FF5733?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 
 ---
 
