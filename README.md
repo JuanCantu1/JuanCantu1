@@ -78,22 +78,22 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 
 ## 📚 Experience Highlights
 
-**🧠 Graduate Teaching Assistant @ UTRGV** *(2026)*  
+**🧠 Graduate Teaching Assistant @ UTRGV** *(Spring 2026)*  
 Managed 3 weekly Digital Systems Lab I sections supporting 100+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
 
-**🔬 Graduate Research Assistant @ UTRGV** *(2025)*  
+**🔬 Graduate Research Assistant @ UTRGV** *(Fall 2025)*  
 Led semiconductor device research focused on Ga2O3 ultra wide bandgap devices, including thin-film deposition and electrical/material characterization.
 
-**🧑‍🏫 Teaching Assistant @ UTRGV** *(2025)*  
+**🧑‍🏫 Teaching Assistant @ UTRGV** *(Summer 2025)*  
 Supervised 3 weekly lab sessions covering analog circuits, instrumentation, and measurement. Provided hands-on troubleshooting support to improve lab efficiency and student outcomes.
 
-**🧪 Research Assistant @ UTRGV** *(2025)*  
+**🧪 Research Assistant @ UTRGV** *(Spring 2025)*  
 Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1,000+ update cycles. Simulated 18,500+ samples across multi-agent networks, achieving a 72% reduction in NLL and a 48% reduction in MSE. Contributed as a co-author on a paper submitted to the Asilomar Conference on Signals, Systems, and Computers.
 
 **🧬 Undergraduate Researcher @ UTRGV** *(2024)*  
 Led a 4-person team to build a real-time facial recognition system for classroom attentiveness using a custom CNN. Processed 4,000+ labeled samples, reaching 90%+ accuracy, and presented results to 200+ K-12 students.
 
-**🚗 NSF REU Research Intern** *(2023)*  
+**🚗 NSF REU Research Intern** *(Summer 2023)*  
 Collaborated in a 10-week research program focused on autonomous vehicle safety. Supported ML-based decision-making research aimed at reducing conflict zones by 50%.
 
 ---
