@@ -51,22 +51,12 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 
 ---
 
-### 💡 [Network Controlled LED System](https://github.com/JuanCantu1/Network-Controlled-LED-System)
-Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integration on the DE1-SoC, achieving sub-second response time and 100% command reliability over 30+ tests.
-
-<p align="center">
-  <img src="https://t4.ftcdn.net/jpg/00/72/18/03/360_F_72180347_NTfdClV3UZL2xTRnMTGogY5z2vHyp722.jpg" width="350">
-</p>
-
----
-
 ## 🔧 Core Skills
 
 ### 📝 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
