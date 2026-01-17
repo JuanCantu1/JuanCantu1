@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://github.com/JuanCantu1">Juan Cantu</a> 👋</h1>
 
-<p align="center"><b>Computer Engineer | FPGA & VLSI Design | Embedded Systems</b></p>
+<p align="center"><b>M.S. Electrical Engineering | B.S. Computer Engineering | RTL & Digital Design</b></p>
 
 <p align="center">
   📫 <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a> &nbsp;|&nbsp;
@@ -15,13 +15,9 @@
 ---
 ## 📌 Who I Am
 
-I'm a **Master’s student in Electrical Engineering** at UTRGV. I hold a **Bachelor of Science in Computer Engineering** from UTRGV, where I built a strong foundation in digital design, computer architecture, and embedded systems.
+I’m a **Master’s student in Electrical Engineering (MSEE)** at UTRGV with a **B.S. in Computer Engineering**. My work and interests focus on **digital hardware design and RTL development**, especially **FPGA/ASIC design**, **computer architecture**, and **system-level integration**.
 
-My interests center on **FPGA, ASIC/VLSI, and front-end digital design**, with a focus on RTL development, CPU architectures, and system-on-chip integration. I am passionate about semiconductor technologies and high-performance digital systems that power modern computing.
-
-I enjoy building hardware that bridges **theory and practice**, from custom RISC-V CPU pipelines and transistor-level VLSI circuits to FPGA-based accelerators and real-time DSP systems. My goal is to design systems that are **fast, efficient, and scalable**, contributing to the next generation of computing hardware and semiconductor innovation.
-
-I believe in **engineering with purpose**: using hardware design to push the boundaries of performance while enabling meaningful real-world applications.
+I enjoy building practical hardware projects that reinforce strong fundamentals, ranging from **CPU microarchitecture and pipelined datapaths** to **FSM-driven FPGA designs** and **real-time signal processing systems**. I’m especially interested in designing digital systems that are **clean, efficient, and scalable**, with an emphasis on writing structured **Verilog/SystemVerilog** and developing designs that are easy to debug and verify.
 
 ---
 
@@ -70,57 +66,47 @@ Built a TCP/IP client-server interface to control LEDs via HPS–FPGA integratio
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### 🔌 Hardware Design & Embedded Systems
+### 🔌 Digital Design and FPGA
 ![FPGA](https://img.shields.io/badge/FPGA-8C1CAB?style=for-the-badge&logo=xilinx&logoColor=white)
+![Intel%20Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
+![Xilinx%20Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ED8B00?style=for-the-badge&logo=verilog&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
-### 🧠 Machine Learning & Scientific Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 🧰 Tools for Development & Design
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white)
-![Quartus](https://img.shields.io/badge/Intel%20Quartus-007ACC?style=for-the-badge&logo=intel&logoColor=white)
+### 🧰 Tools
 ![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-FF5733?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 ---
 
 ## 📚 Experience Highlights
 
-**🔬 Graduate Research Assistant @ UTRGV** *(2025)*  
-Conducted research in semiconductor materials and device fabrication under Dr. Hasina Huq, focusing on GaN thin-film deposition and characterization.
+**🧠 Graduate Teaching Assistant @ UTRGV** *(2026)*  
+Lead 3 weekly Digital Systems Lab I sections supporting 100+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
 
-**🧑‍🔬 Teaching Assistant @ UTRGV** *(2025)*  
-Managed 3 weekly lab sessions on analog & digital circuits, instrumentation, and measurement. Provided hands-on troubleshooting that reduced lab completion times by nearly 50%.
+**🔬 Graduate Research Assistant @ UTRGV** *(2025)*  
+Supported semiconductor device research focused on **Ga2O3 wide bandgap devices**, including thin-film deposition and electrical/material characterization.
+
+**🧑‍🏫 Teaching Assistant @ UTRGV** *(2025)*  
+Led 3 weekly lab sessions covering analog circuits, instrumentation, and measurement. Provided hands-on troubleshooting support to improve lab efficiency and student outcomes.
 
 **🧪 Research Assistant @ UTRGV** *(2025)*  
-Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1K+ update cycles. Simulated 18.5K+ samples across multi-agent networks, achieving a 72% reduction in NLL and 48% drop in MSE. Contributed as co-author on a paper submitted to the Asilomar Conference on Signals, Systems, and Computers.
+Developed Federated Incremental Gaussian Process (F-IGP) algorithms with 1,000+ update cycles. Simulated 18,500+ samples across multi-agent networks, achieving a 72% reduction in NLL and a 48% reduction in MSE. Contributed as a co-author on a paper submitted to the Asilomar Conference on Signals, Systems, and Computers.
 
 **🧬 Undergraduate Researcher @ UTRGV** *(2024)*  
-Led a 4-person team to build a real-time facial recognition system for classroom attentiveness using a custom CNN. Processed 4K+ labeled samples, reaching >90% accuracy, and presented results to 200+ K-12 students.
+Led a 4-person team to build a real-time facial recognition system for classroom attentiveness using a custom CNN. Processed 4,000+ labeled samples, reaching 90%+ accuracy, and presented results to 200+ K-12 students.
 
-**🚗 NSF REU** *(2023)*  
-Collaborated with researchers in a 10-week program focused on autonomous vehicle safety. Supported ML-based decision-making research aimed at reducing conflict zones by 50%.
+**🚗 NSF REU Research Intern** *(2023)*  
+Collaborated in a 10-week research program focused on autonomous vehicle safety. Supported ML-based decision-making research aimed at reducing conflict zones by 50%.
 
 ---
 
@@ -130,6 +116,6 @@ Collaborated with researchers in a 10-week program focused on autonomous vehicle
 
 ---
 
-📫 I’m always open to discussing research collaborations, hardware/FPGA design projects.  
+📫 I’m always open to discussing digital hardware design, RTL/FPGA projects, and engineering opportunities.
 
 Feel free to reach out at **Juan.Cantu01@outlook.com**.
