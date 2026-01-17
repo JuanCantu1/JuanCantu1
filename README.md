@@ -7,7 +7,7 @@
 <p align="center"><b>M.S. Electrical Engineering | B.S. Computer Engineering | RTL & Digital Design</b></p>
 
 <p align="center">
-  📫 <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a> &nbsp;|&nbsp;
+  <a href="mailto:Juan.Cantu01@outlook.com">Juan.Cantu01@outlook.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/juancantu1">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/JuanCantu1">GitHub</a>
 </p>
