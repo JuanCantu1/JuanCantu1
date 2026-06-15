@@ -46,7 +46,7 @@ Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwa
 Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED feedback on the Nexys A7-100T FPGA, fully verified with modular Verilog test sequences.
 
 <p align="center">
-  <img src="https://github.com/JuanCantu1/Interactive-Memory-Game/blob/main/Design/Schematic.png?raw=true" width="350">
+  <img src="https://github.com/JuanCantu1/Interactive-Memory-Game/assets/109363196/fed5204e-ace2-4be9-a0f1-9e56b570837c" width="350">
 </p>
 
 ---
