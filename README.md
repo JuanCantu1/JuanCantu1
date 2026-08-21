@@ -78,8 +78,8 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 
 ## 📚 Experience Highlights
 
-**🖥️ RTL Design Engineering Intern @ INTEL** *(Summer 2026, Fall 2026, Spring 2027)*
-Accept 9 month internship offer with Intel as RTL Design Engineering Intern 
+**🖥️ RTL Design Engineering Intern @ INTEL** *(Summer 2026)*
+Contributed to front-end logic design and integration within the Scalable Fabric IP team for next-gen Xeon processors. 
 
 **🧠 Graduate Teaching Assistant @ UTRGV** *(Spring 2026)*  
 Managed 3 weekly Digital Systems Lab I sections supporting 100+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
