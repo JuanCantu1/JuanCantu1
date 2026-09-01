@@ -23,21 +23,20 @@ I enjoy building practical hardware projects that reinforce strong fundamentals,
 
 ## 🚀 Featured Projects
 
+### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) 
+Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwarding, expanding from a custom ISA simulator to Verilog RTL targeting FPGA implementation.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
+</p>
+
+---
+
 ### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) *(In Progress)*
 Building a real-time FPGA DSP pipeline with autotune, reverb, and harmonic enhancement, using a Python-to-Verilog testbench (3.6M+ samples) and validating <15 ms latency on real trumpet recordings.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40a31b9f-3c1b-4666-be83-6029270986c0" width="350">
-</p>
-
-
----
-
-### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) *(In Progress)*
-Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwarding, expanding from a custom ISA simulator to Verilog RTL targeting FPGA implementation.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
 </p>
 
 ---
