@@ -80,8 +80,8 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 **🖥️ RTL Design Engineering Intern @ INTEL** *(Summer 2026)*
 Contributed to front-end logic design and integration within the Scalable Fabric IP team for next-gen Xeon processors. 
 
-**🧠 Graduate Teaching Assistant @ UTRGV** *(Spring 2026)*  
-Managed 3 weekly Digital Systems Lab I sections supporting 100+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
+**🧠 Graduate Teaching Assistant @ UTRGV** *(Spring 2026, Fall 2026)*  
+Managed 3 weekly Digital Systems Lab I sections supporting 400+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
 
 **🔬 Graduate Research Assistant @ UTRGV** *(Fall 2025, Spring 2026)*  
 Led semiconductor device research focused on Ga2O3 ultra wide bandgap devices, including thin-film deposition and electrical/material characterization.
