@@ -24,7 +24,7 @@ I enjoy building practical hardware projects that reinforce strong fundamentals,
 ## 🚀 Featured Projects
 
 ### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) 
-Designing a 32-bit, 5-stage pipelined RISC-V CPU with hazard detection and forwarding, expanding from a custom ISA simulator to Verilog RTL targeting FPGA implementation.
+Designed a 32-bit, 5-stage pipelined RISC-V (RV32I) CPU in SystemVerilog with hazard detection and forwarding, verified through embedded SystemVerilog assertions, 100% functional coverage, and 300+ constrained-random test programs checked against a reference model
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
@@ -78,7 +78,7 @@ Implemented a 12-state Moore FSM with debounced inputs, clock division, and LED 
 ## 📚 Experience Highlights
 
 **🖥️ RTL Design Engineering Intern @ INTEL** *(Summer 2026)*
-Contributed to front-end logic design and integration within the Scalable Fabric IP team for next-gen Xeon processors. 
+Contributed to front-end logic design and integration within the Scalable Coherent Fabric IP team for next-gen Xeon processors. 
 
 **🧠 Graduate Teaching Assistant @ UTRGV** *(Spring 2026, Fall 2026)*  
 Managed 3 weekly Digital Systems Lab I sections supporting 400+ undergraduate students in core digital logic, breadboard prototyping, and debugging fundamentals.
