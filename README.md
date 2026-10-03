@@ -23,6 +23,15 @@ I enjoy building practical hardware projects that reinforce strong fundamentals,
 
 ## 🚀 Featured Projects
 
+### 🖥️ [Mesh NoC Router for CPU Interconnect](https://github.com/JuanCantu1/Mesh-NoC-Router) 
+Designed a parameterizable 2D mesh NoC router in SystemVerilog with credit-based flow control, virtual channels, and a 2-pass allocator that lifted throughput 20%, removed protocol deadlock with per-class virtual networks, and verified it with assertions, formal proofs, and mutation testing (11 of 11 planted bugs caught).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
+</p>
+
+---
+
 ### 🖥️ [RISC-V CPU Design](https://github.com/JuanCantu1/CPU-Design) 
 Designed a 32-bit, 5-stage pipelined RISC-V (RV32I) CPU in SystemVerilog with hazard detection and forwarding, verified through embedded SystemVerilog assertions, 100% functional coverage, and 300+ constrained-random test programs checked against a reference model
 
@@ -32,7 +41,7 @@ Designed a 32-bit, 5-stage pipelined RISC-V (RV32I) CPU in SystemVerilog with ha
 
 ---
 
-### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement) *(In Progress)*
+### 🎺 [FPGA Based DSP for Trumpet Audio Enhancement](https://github.com/JuanCantu1/DSP-System-for-Trumpet-Audio-Enhancement)
 Building a real-time FPGA DSP pipeline with autotune, reverb, and harmonic enhancement, using a Python-to-Verilog testbench (3.6M+ samples) and validating <15 ms latency on real trumpet recordings.
 
 <p align="center">
