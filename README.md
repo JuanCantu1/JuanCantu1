@@ -27,7 +27,7 @@ I enjoy building practical hardware projects that reinforce strong fundamentals,
 Designed a parameterizable 2D mesh NoC router in SystemVerilog with credit-based flow control, virtual channels, and a 2-pass allocator that lifted throughput 20%, removed protocol deadlock with per-class virtual networks, and verified it with assertions, formal proofs, and mutation testing (11 of 11 planted bugs caught).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e371d61-9f5f-4353-88b8-62eaee3a5b92" width="350">
+  <img src="https://github.com/user-attachments/assets/f4613b29-8dab-4cf7-b023-f61d1d0d4b7c" width="350">
 </p>
 
 ---
